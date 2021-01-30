@@ -1,5 +1,7 @@
 # java-easy-clj
 
+[![Clojars Project](https://img.shields.io/clojars/v/java-easy-clj.svg)](https://clojars.org/java-easy-clj)
+
 A Java/Clojure library to easily call clojure code from java. It provides a high-level interface into clojure land via one static method.
 
 ## Usage
